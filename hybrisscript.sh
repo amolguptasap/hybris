@@ -64,8 +64,6 @@ sudo /etc/init.d/mysql stop
 
 echo "END OF SCRIPT"
 
-sftp://35.222.217.70
-rsa-key-20190409
 
 ./install.sh -r b2b_acc
 ./install.sh -r b2b_acc initialize
