@@ -64,12 +64,11 @@ sudo /etc/init.d/mysql stop
 
 echo "END OF SCRIPT"
 
+#./install.sh -r b2b_acc
+#./install.sh -r b2b_acc initialize
+#./install.sh -r b2b_acc start
 
-./install.sh -r b2b_acc
-./install.sh -r b2b_acc initialize
-./install.sh -r b2b_acc start
-
-./install.sh -r b2c_acc initialize
+#./install.sh -r b2c_acc initialize
 
 
 
